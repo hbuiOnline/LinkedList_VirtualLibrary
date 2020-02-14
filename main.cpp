@@ -2,7 +2,7 @@
 //ID#: 1858671
 //COSC 2430 Data Structure
 //Professor: Nouhad Rizk
-//Homework 2
+//Virtual Library Management using linked list implementation
 
 #include <iostream>
 #include <string>
